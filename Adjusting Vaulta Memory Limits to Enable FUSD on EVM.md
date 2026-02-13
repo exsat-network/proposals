@@ -1,5 +1,11 @@
 # Adjusting Vaulta Memory Limits to Enable FUSD on EVM
 
+## MSIG Link
+https://unicove.com/en/vaulta/msig/xsat/adjmem4fusd
+
+## Security Confirmation
+Core developers Areg Hayrapetian and Matt Witherspoon have confirmed that this modification poses no security risks. The "high" configuration profile has been thoroughly vetted and is considered safe for production deployment.
+
 ## Overview
 ### MSIG to be Approved: 
 
